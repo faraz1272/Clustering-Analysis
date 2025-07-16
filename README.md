@@ -1,3 +1,5 @@
+# **Note: The jupyter notebook is too big to view on GitHub, please see the PDF version of the same.**
+
 # Scaler Learner Clustering
 
 ## Project Overview
